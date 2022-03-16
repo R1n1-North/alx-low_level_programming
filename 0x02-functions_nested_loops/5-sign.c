@@ -1,6 +1,8 @@
 #include "main.h"
 /**
- * main - check the code
+ * print_sign - prints the sign of the numbers
+ *
+ * @n: is the character checker
  *
  * Return: 1 is greater than zero. 0 is zero
  * -1 is less than zero

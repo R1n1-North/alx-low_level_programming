@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * main - print the 9 timestable
+ * times_table - print the 9 timestable
  *
  * Return: no return
  */

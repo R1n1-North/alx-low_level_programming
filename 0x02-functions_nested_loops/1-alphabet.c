@@ -1,9 +1,11 @@
 #include "main.h"
 
 /**
- * main - prints the alphabet
+ * print_alphabet - prints the alphabet
  *
- * Return: Always 0.
+ *
+ *
+ * Return: void
  */
 
 void print_alphabet(void)
