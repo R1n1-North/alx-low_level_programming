@@ -2,7 +2,7 @@
 #include <stdio.h>
 /**
  * *leet - encode a string
- * @n: character cchecker 
+ * @n: character checker
  * Return: encoded string
  */
 char *leet(char *n)
