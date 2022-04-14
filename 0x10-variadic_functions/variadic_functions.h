@@ -14,7 +14,7 @@ void print_f(char *separator, va_list list);
 void print_c(char *separator, va_list list);
 
 /**
- * struct typ - Struct operators
+ * struct format_types - Struct operators
  *
  * @identifier: the conversion specifier
  * @f: function pointer
