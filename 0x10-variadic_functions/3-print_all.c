@@ -44,7 +44,7 @@ void print_all(const char * const format, ...)
 /**
  * print_integer - function that prints int
  * @list: argument of list
- * @s: seperator
+ * @separator: seperator
  * Return: nothing
  */
 void print_integer(char *separator, va_list list)
@@ -54,7 +54,7 @@ void print_integer(char *separator, va_list list)
 /**
  * print_c - print char
  * @list: argument cha
- * @sep: seperator
+ * @separator: seperator
  */
 void print_c(char *separator, va_list list)
 {
@@ -62,7 +62,7 @@ void print_c(char *separator, va_list list)
 }
 /**
  * print_s - prints strings
- * @sep: seperator
+ * @separator: seperator
  * @list: list to print
  * Return: none
  */
@@ -79,7 +79,7 @@ void print_s(char *separator, va_list list)
 }
 /**
  * print_f - prints float
- * @sep: float to print
+ * @separator: float to print
  * @list: next argument of list to print
  * Return: nothing
  */
