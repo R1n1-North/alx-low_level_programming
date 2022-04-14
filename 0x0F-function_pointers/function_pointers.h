@@ -1,7 +1,5 @@
-#include <stddef.h>
 #ifndef HEADER
 #define HEADER
-
 #include <stdio.h>
 #include <stdlib.h>
 int _putchar(char c);
